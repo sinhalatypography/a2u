@@ -1,0 +1,20 @@
+{
+  "name": "ascii-to-unicode",
+  "version": "0.3.0",
+  "description": "",
+  "main": "lib/asciiToUnicode.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/textwire/a2u.git"
+  },
+  "author": "thinkholic <mailtokasun@gmail.com> (https://github.com/thinkholic)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/textwire/a2u/issues"
+  },
+  "homepage": "https://github.com/textwire/a2u#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
