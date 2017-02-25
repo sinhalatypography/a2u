@@ -18,14 +18,3 @@ var args = {
 };
 var unicodeText = asciiToUnicode.convert(args);
 ```
-
-## Development Guide
-
-```
-git clone git@github.com:textwire/ascii-to-unicode.git
-cd ascii-to-unicode
-
-git submodule init
-git submodule update
-```
-
